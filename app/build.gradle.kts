@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.arttt95.completaai"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.arttt95.completaai"
