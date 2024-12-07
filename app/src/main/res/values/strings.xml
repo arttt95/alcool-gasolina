@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Completa Ai</string>
+    <string name="text_main">Saiba a melhor opção para abastecimento do seu carro</string>
+    <string name="text_resultado">Resultado</string>
+
+    <string name="hint_alcool">Digite o preço do álcool ex: 1.90</string>
+    <string name="hint_gasolina">Digite o preço da gasolina ex: 4.50</string>
+
+    <string name="button_calcular">CALCULAR</string>
+</resources>
